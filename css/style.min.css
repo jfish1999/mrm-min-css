@@ -2381,7 +2381,7 @@ h1.splash {
   line-height: 60vh;
   font-size: 3rem;
   font-weight: 400;
-  color: #f22f21
+  color: #9370DB
 }
 
 h1.splash small {
@@ -2392,8 +2392,8 @@ h1.splash small {
 
 h1.splash::first-letter {
   font-size: 1.33em;
-  color: #fff;
-  background: #f22f21;
+  color:#9370DB;
+  background: #fff;
   border-radius: 6px;
   padding: 0 10px
 }
@@ -2418,15 +2418,15 @@ a.button.splash {
   left: 25vw;
   text-align: center;
   font-size: 1.25rem;
-  border-color: #f22f21;
+  border-color: #9370DB;
   background: rgba(255, 255, 255, 0.35);
   transition: all 0.3s
 }
 
 a.button.splash:hover {
-  background: #f22f21;
+  background: #9370DB;
   color: #f8f8f8;
-  border-color: #f22f21
+  border-color: #9370DB
 }
 
 @media screen and (min-width: 768px) {
@@ -2449,7 +2449,7 @@ a.button.splash:hover {
   background: rgba(0, 0, 0, 0.25);
   padding: 2px 6px;
   border-radius: 4px;
-  color: #dc2b1e;
+  color: #fff;
   right: 8px;
   font-weight: 500
 }
@@ -2480,7 +2480,7 @@ a.button.splash:hover {
 }
 
 .primary-section {
-  background: #f22f21;
+  background: #BA55D3;
   color: #fff
 }
 
